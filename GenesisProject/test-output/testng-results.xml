@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-31T09:23:00 IST" name="Default suite" finished-at="2021-03-31T09:23:00 IST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2021-03-31T09:23:00 IST" name="Default test" finished-at="2021-03-31T09:23:00 IST" duration-ms="33">
+      <class name="BeforeAfter">
+        <test-method is-config="true" signature="fistclass()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="fistclass" finished-at="2021-03-31T09:23:00 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fistclass -->
+        <test-method is-config="true" signature="first()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="first" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="A()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="A" finished-at="2021-03-31T09:23:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method is-config="true" signature="last()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="last" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+        <test-method is-config="true" signature="first()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="first" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="C()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="C" finished-at="2021-03-31T09:23:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method is-config="true" signature="last()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="last" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+        <test-method is-config="true" signature="first()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="first" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="B()[pri:1, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="B" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method is-config="true" signature="last()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="last" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+        <test-method is-config="true" signature="lastclass()[pri:0, instance:BeforeAfter@d706f19]" started-at="2021-03-31T09:23:00 IST" name="lastclass" finished-at="2021-03-31T09:23:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastclass -->
+      </class> <!-- BeforeAfter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

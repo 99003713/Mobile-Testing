@@ -1,0 +1,6 @@
+﻿ ,TX_NAME,PROTOCOL,SERVER_NAME,PATH,REQ_METHODS,EXPECTED_TEXT
+1,homepage,https,jmeter.apache.org,,GET,home page is opened
+2,downloadpage,https,jmeter.apache.org,download_jmeter.cgi,GET,clicked on download page
+3,getstarted,https,jmeter.apache.org,/usermanual/get-started.html,GET,when using jmeter we will usually follow this process
+4,bestpractises,https,jmeter.apache.org,/usermanual/best-practices.html,GET,always use latest version
+5,faq,https,cwiki.apache.org,/confluence/display/JMETER/JMeterFA,GET,Faq page is opened
